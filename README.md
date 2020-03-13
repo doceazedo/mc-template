@@ -1,4 +1,4 @@
-<h1 align="center">.+* [LIVE DEMO](https://gh.imlucas.com.br/template-mc-2020) | [DOWNLOAD](https://gh.imlucas.com.br/template-mc-2020/template-mc-2020.zip) *+.</h1>
+<h1 align="center">.+* <a href="https://gh.imlucas.com.br/template-mc-2020">LIVE DEMO</a> | <a href="https://gh.imlucas.com.br/template-mc-2020/template-mc-2020.zip">DOWNLOAD</a> *+.</h1>
 <p align="center">6 páginas | Copiar IP ao clicar | Players online (e MOTD) | Widget de rede social | Responsivo | Fácil de editar</p>
 
 ![](https://i.imgur.com/NLbaydF.png)
